@@ -53,7 +53,7 @@ This project is currently finished.
 - Add Memes Versions
 - Add More sounds
 - Add More Backgrounds
-- Make Possible to switch loadouts
+- Make Possible to switch loadouts (Colors and songs)
 - Make BackGround Full Screen
 
 
